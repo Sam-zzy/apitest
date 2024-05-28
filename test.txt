@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 "Some changes" 
 =======
-1
+123
 >>>>>>> 51af00dbf56c8e1d83f77be46ee85cf429d5c788
